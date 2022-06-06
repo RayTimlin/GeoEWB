@@ -1,0 +1,3269 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): There is a project team. Longtime since last update",
+        "Owning Local Group": "Luleå",
+        "Competence group": "WASH",
+        "Latitude": -1.57134250085483,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0630744100843,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2020.009,
+        "Project Name": "Water level regulation of elevated water tanks",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.063074,
+          -1.571342
+        ],
+        "type": "Point"
+      },
+      "id": "01ff146f95e4660357a48b71cc8fcf72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Other",
+        "Latitude": -1.3102316748427,
+        "Partner Organisation(s)": "Wale Wale Kenya",
+        "Longitude": 36.7849920207276,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2017.001,
+        "Project Name": "Design of Control System for a Smart Building, Wale Wale",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          36.784992,
+          -1.310231
+        ],
+        "type": "Point"
+      },
+      "id": "05543c41fc78dd5cd4309b124fe4227c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "WASH",
+        "Latitude": -0.147735936989008,
+        "Partner Organisation(s)": "OWIDOP",
+        "Longitude": 34.7882294037626,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2013.001,
+        "Project Name": "Water Dam Kisumu",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          34.788229,
+          -0.147735
+        ],
+        "type": "Point"
+      },
+      "id": "0764c7d930ca3d2fd926414e1c1ef3f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "Energy",
+        "Latitude": 10.5604689415889,
+        "Partner Organisation(s)": "The Free Projects,",
+        "Longitude": -0.832487949325568,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2015.002,
+        "Project Name": "Solar Panels for Education",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.832487,
+          10.560468
+        ],
+        "type": "Point"
+      },
+      "id": "07ac952021b6903f2634762c885f96d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Purchase of vehicle at Mavuno for use in EWB-related projects. Decision taken by National Board.",
+        "Owning Local Group": "National",
+        "Competence group": "Other",
+        "Latitude": -1.56073030568695,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0703158702842,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.007,
+        "Project Name": "Vehicle Mavuno",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.070315,
+          -1.56073
+        ],
+        "type": "Point"
+      },
+      "id": "07b477edececa29c594c61a8e5ea033b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Due to war situation in Cameroon, the project shall be terminated.",
+        "Owning Local Group": "KTH",
+        "Competence group": "Digitalisation",
+        "Latitude": 4.94451257793608,
+        "Partner Organisation(s)": "Computer and Solar Training Center of Linux Friends (ALF)",
+        "Longitude": 8.76894019333048,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2019.005,
+        "Project Name": "Improvised computer lab for children in refugee camp",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          8.76894,
+          4.944512
+        ],
+        "type": "Point"
+      },
+      "id": "09149d39860f7a57c227d88bc581c665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "WASH",
+        "Latitude": -1.58090900168949,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0636323095229,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2012.003,
+        "Project Name": "PR Film Water Tanks",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.063632,
+          -1.580909
+        ],
+        "type": "Point"
+      },
+      "id": "09a78af16a130131e03323b757402730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Terminated",
+        "Owning Local Group": "Lund",
+        "Competence group": "Other",
+        "Latitude": 55.7080543507139,
+        "Partner Organisation(s)": null,
+        "Longitude": 13.1911275542807,
+        "Main Country of Operation": "Sweden",
+        "Project Number": 2018.023,
+        "Project Name": "Multidisciplinary humanitarian course",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          13.191127,
+          55.708054
+        ],
+        "type": "Point"
+      },
+      "id": "0b79a0f6b7c02e43a4f494e69832b65e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -8.9247069937565,
+        "Partner Organisation(s)": "Lugala Lutheran Hospital / Solidarmed",
+        "Longitude": 36.137325279199,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.005,
+        "Project Name": "Lugala Hospital Laundry-Energy System",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          36.137325,
+          -8.924706
+        ],
+        "type": "Point"
+      },
+      "id": "0bc33e93d036ea85b49de9fd40c49680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Impelentation of pv system spring 2021.",
+        "Owning Local Group": "National",
+        "Competence group": "Energy",
+        "Latitude": -1.54844625077466,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0722689255835,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.03,
+        "Project Name": "Water, electricity and infrastructural development of MAVUNO orphanage",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.072268,
+          -1.548446
+        ],
+        "type": "Point"
+      },
+      "id": "0d2cf7075292dc95f0664df2f8467ef6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Construction",
+        "Latitude": 27.7065243122916,
+        "Partner Organisation(s)": "Build Up Nepal",
+        "Longitude": 85.358747712651,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2018.003,
+        "Project Name": "Build Up Nepal, Comparative Analysis of CSEB",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          85.358747,
+          27.706524
+        ],
+        "type": "Point"
+      },
+      "id": "0e45ef8b7fe298c77bf86751c032d771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "WASH",
+        "Latitude": 10.4680944636203,
+        "Partner Organisation(s)": "Wulugu",
+        "Longitude": -0.792893085551607,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2016.003,
+        "Project Name": "Water Supply Solution Wulugu",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.792893,
+          10.468094
+        ],
+        "type": "Point"
+      },
+      "id": "0f816b15b1f569430ad2e041099dc011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Malmö",
+        "Competence group": "WASH",
+        "Latitude": -1.57661909643722,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0651772618146,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.015,
+        "Project Name": "Zero Dropouts",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.065177,
+          -1.576619
+        ],
+        "type": "Point"
+      },
+      "id": "11a00ae6b9cee0de55f5c8393f6a9a27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Goes on. Potentially EWB can get involved in funding.",
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Construction",
+        "Latitude": 5.55563416909491,
+        "Partner Organisation(s)": "Stiftelsen Make a Difference",
+        "Longitude": -0.855517435050682,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2018.011,
+        "Project Name": "Stiftelsen Make a Difference - Construction of Family Centre",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.855517,
+          5.555634
+        ],
+        "type": "Point"
+      },
+      "id": "11cab1fea0090b15ac80ecb204444f54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Energy",
+        "Latitude": -0.0730016760873707,
+        "Partner Organisation(s)": "Zingira Nyanza Community Crafts",
+        "Longitude": 34.7836002349764,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2016.01,
+        "Project Name": "Solar Lighting TULELA Lamp",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          34.7836,
+          -0.073001
+        ],
+        "type": "Point"
+      },
+      "id": "126ba401c2f53d1523a13ec6dad39a10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "WASH",
+        "Latitude": -8.93444105764344,
+        "Partner Organisation(s)": "Lugala Lutheran Hospital / Solidarmed",
+        "Longitude": 36.2121409905288,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.018,
+        "Project Name": "Assessment of Water, Sanitation & Hygiene Status of Dispensaries in Malinyi District",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          36.21214,
+          -8.934441
+        ],
+        "type": "Point"
+      },
+      "id": "134ddec9b86016a45f568e82f6493b0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": 36.8774901133485,
+        "Partner Organisation(s)": null,
+        "Longitude": 10.2377665766146,
+        "Main Country of Operation": "Tunisia",
+        "Project Number": 2000.008,
+        "Project Name": "Solar Ovens Tunisia",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.237766,
+          36.87749
+        ],
+        "type": "Point"
+      },
+      "id": "14ebd9c2eb647843ef2b77f8428411e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "Other",
+        "Latitude": -1.56499937777591,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0524382113889,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.009,
+        "Project Name": "Strategic development of the future collaboration with Mavuno",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.052438,
+          -1.564999
+        ],
+        "type": "Point"
+      },
+      "id": "168a4418c9887cb4d99524bfe3f17934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "WASH",
+        "Latitude": 10.4675986006457,
+        "Partner Organisation(s)": "Wulugu",
+        "Longitude": -0.793268594789161,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2018.004,
+        "Project Name": "Water Cleaning UV Filter in Wulugu",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.793268,
+          10.467598
+        ],
+        "type": "Point"
+      },
+      "id": "17c369266527e33ae374d3c68cc86f02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "(2021-06-21, National Board)There are solar panels that were not used in this installation that we will utilize in a project together with another organisation (Acohof). Due to the Civil war in Cameroon, we currently have difficulties transferring them. Stefan Karnebäck as well as the newly established Project Evaluation Group stay responsible for the handling and utilization of these panels.",
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": 5.26676726340242,
+        "Partner Organisation(s)": "CZR",
+        "Longitude": 10.2244459421621,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2016.007,
+        "Project Name": "Solar Panels Girls School, Bandja",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.224445,
+          5.266767
+        ],
+        "type": "Point"
+      },
+      "id": "187b33bdd06985ea911ba352bcd4a49a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "Food",
+        "Latitude": 10.4675458492188,
+        "Partner Organisation(s)": "Wulungu",
+        "Longitude": -0.792496118643336,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2018.028,
+        "Project Name": "Kitchen Facility with Rocket Stoves",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.792496,
+          10.467545
+        ],
+        "type": "Point"
+      },
+      "id": "1aa36a5ef62f78175e70948780a60100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): To be conculded. Ulf checks with team.",
+        "Owning Local Group": "Göteborg",
+        "Competence group": "WASH",
+        "Latitude": -2.29931649227133,
+        "Partner Organisation(s)": "Fishers Union Organisation",
+        "Longitude": 32.3174310681453,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.014,
+        "Project Name": "Sanitary Solution for Bulyaheke in Mwanza district, Tanzania",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          32.317431,
+          -2.299316
+        ],
+        "type": "Point"
+      },
+      "id": "1b4843d74f978a2ac5de93170d33e666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2022-03-07: Renewed approval from IPC 2022-03-07, with note: Continued capacity strengthening for future projects with Asulma Centre needed",
+        "Owning Local Group": "National",
+        "Competence group": "Food",
+        "Latitude": -1.26390467014549,
+        "Partner Organisation(s)": "Asulma center",
+        "Longitude": 36.8054616442252,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2019.017,
+        "Project Name": "Integrated Solar Cooking Diffusion, East Africa -",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          36.805461,
+          -1.263904
+        ],
+        "type": "Point"
+      },
+      "id": "1d69367e7f2274c2f74aa6f71b035018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Has project manager Per Melin.",
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Construction",
+        "Latitude": -1.24619337253217,
+        "Partner Organisation(s)": "Asulma center",
+        "Longitude": 36.803641529588,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2020.011,
+        "Project Name": "New Compound Asulma Center",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          36.803641,
+          -1.246193
+        ],
+        "type": "Point"
+      },
+      "id": "21262913fe9dd8e8a17ff116798e6d8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-08 (Caroline och Ulf): Ready to start water samples after summer.",
+        "Owning Local Group": "KTH",
+        "Competence group": "WASH",
+        "Latitude": 26.5989452816253,
+        "Partner Organisation(s)": "Himalayan Risk Research Institute",
+        "Longitude": 87.1247036622267,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2019.021,
+        "Project Name": "Emergency Water Supply System in Nepal",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          87.124703,
+          26.598945
+        ],
+        "type": "Point"
+      },
+      "id": "214498c89cc5655908a2a054ca3249a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "WASH",
+        "Latitude": 8.4665585742031,
+        "Partner Organisation(s)": null,
+        "Longitude": -13.2507214172149,
+        "Main Country of Operation": "Sierra Leone",
+        "Project Number": 2022.001,
+        "Project Name": "Healthy Hospital Sierra Leone",
+        "Current Stage": "1. Idea Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.250721,
+          8.466558
+        ],
+        "type": "Point"
+      },
+      "id": "24c8cacac0ad2b03b1354445beba0b18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Food",
+        "Latitude": -1.56314873659359,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0598557594767,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2013.004,
+        "Project Name": "Fish Farm",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.059855,
+          -1.563148
+        ],
+        "type": "Point"
+      },
+      "id": "24ccc35b24f29cdba9e155d586b167d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Caroline -check with Anders and Marianne",
+        "Owning Local Group": "National",
+        "Competence group": "Other",
+        "Latitude": 0,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 0,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.019,
+        "Project Name": "EWB Project Assistant Mavuno",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "28b7b2ff861b79ed975b018d341b71b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Karlstad",
+        "Competence group": "Food & Energy",
+        "Latitude": 1.07822715622762,
+        "Partner Organisation(s)": null,
+        "Longitude": 34.1761062259149,
+        "Main Country of Operation": "Uganda",
+        "Project Number": 2017.009,
+        "Project Name": "Efficient Stove in Mbale",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          34.176106,
+          1.078227
+        ],
+        "type": "Point"
+      },
+      "id": "2968a46bd1b1a43da23192536c7e8c55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Stuck in partnership assessment.",
+        "Owning Local Group": "Lund",
+        "Competence group": "Digitalisation",
+        "Latitude": -1.593805629,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.14042635,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2020.013,
+        "Project Name": "Digitalisation in Education Bugene",
+        "Current Stage": "1. Idea Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.140426,
+          -1.593805
+        ],
+        "type": "Point"
+      },
+      "id": "2c0fc8d961bcf1695dd48eb92201f8be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Caroline talks to Rasmus and Mel about to conclude?",
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Energy",
+        "Latitude": -18.5391038718235,
+        "Partner Organisation(s)": "FACE",
+        "Longitude": 32.146811318371,
+        "Main Country of Operation": "Zimbabwe",
+        "Project Number": 2019.013,
+        "Project Name": "REP Solar power project Zimbabwe-FACE",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          32.146811,
+          -18.539103
+        ],
+        "type": "Point"
+      },
+      "id": "2e4f45c320292782e403c02545887658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Ulf will check with Jacob. In tight dialogue with the food group?",
+        "Owning Local Group": "Linköping",
+        "Competence group": "Food",
+        "Latitude": 10.5602685464113,
+        "Partner Organisation(s)": null,
+        "Longitude": -0.831597455990798,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2019.019,
+        "Project Name": "Investigating Possible ways of Diffusing Solar Cookers in Ghana",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.831597,
+          10.560268
+        ],
+        "type": "Point"
+      },
+      "id": "2e5e33d2b6cfcd36563b7aa346c4b8bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Approval by national board not necessary.",
+        "Owning Local Group": "Uppsala",
+        "Competence group": "Digitalisation",
+        "Latitude": 8.28645197679759,
+        "Partner Organisation(s)": "Svenska Utbildningsfonden för Liberia",
+        "Longitude": -10.0888824326212,
+        "Main Country of Operation": "Liberia",
+        "Project Number": 2019.001,
+        "Project Name": "Computers for schools",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.088882,
+          8.286451
+        ],
+        "type": "Point"
+      },
+      "id": "340ad9b84a607f9a67d2ccd39843013a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -1.39931349291409,
+        "Partner Organisation(s)": null,
+        "Longitude": 36.6377551413147,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2000.011,
+        "Project Name": "Biogas Kenya 11-12",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          36.637755,
+          -1.399313
+        ],
+        "type": "Point"
+      },
+      "id": "3711a9af9648f7b06a059532b0cdc932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Funds from this project have been transferred to project number 2018.030.",
+        "Owning Local Group": "Luleå",
+        "Competence group": "WASH",
+        "Latitude": 0,
+        "Partner Organisation(s)": "CCY",
+        "Longitude": 0,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.029,
+        "Project Name": "Solution for sustainable water supply Orphanage and CCY School",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "397218067df3b4ef67f516fb3d66d840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Other",
+        "Latitude": -0.11891784169064,
+        "Partner Organisation(s)": null,
+        "Longitude": 34.7724877223907,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2000.006,
+        "Project Name": "A Burning Need",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          34.772487,
+          -0.118917
+        ],
+        "type": "Point"
+      },
+      "id": "3bb3858039e9481c4fddc299a44d4ab4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Moved from KTH to Stockholm on 2019-11-05 by Caroline",
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Other",
+        "Latitude": 14.2331755876481,
+        "Partner Organisation(s)": "Rapatac for the people",
+        "Longitude": -16.8680054242275,
+        "Main Country of Operation": "Senegal",
+        "Project Number": 2019.006,
+        "Project Name": "Mbodiene Circular Economy",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.868005,
+          14.233175
+        ],
+        "type": "Point"
+      },
+      "id": "3c9fc518edeecc243ffb805a1fdd52f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": 0.618955848414986,
+        "Partner Organisation(s)": "eSeeker Uganda",
+        "Longitude": 33.4649560224908,
+        "Main Country of Operation": "Uganda",
+        "Project Number": 2014.004,
+        "Project Name": "Renewable Energy Education & Vocational Training",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          33.464956,
+          0.618955
+        ],
+        "type": "Point"
+      },
+      "id": "3da1b9a3918bbd26f3ae3417b8212b08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -1.17398585863909,
+        "Partner Organisation(s)": "Tideso, Tweyambe",
+        "Longitude": 31.7657726101812,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2012.002,
+        "Project Name": "Wind Measurements Tweyambe (First Attempt)",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.765772,
+          -1.173985
+        ],
+        "type": "Point"
+      },
+      "id": "3eaf73b9453c3461230aefa350fc82d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "No decision made but listed as an idea. Decision was taken to move this from Idea Stage to Conclusion Stage 30/11/20.",
+        "Owning Local Group": "National",
+        "Competence group": "Other",
+        "Latitude": -2.56929188750122,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 32.9271691100899,
+        "Main Country of Operation": "Sweden",
+        "Project Number": 2018.002,
+        "Project Name": "Project Processes & Education for Volunteers",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          32.927169,
+          -2.569291
+        ],
+        "type": "Point"
+      },
+      "id": "41fbb35e3f45bfb4876421f638458a69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Construction",
+        "Latitude": 27.6933013556948,
+        "Partner Organisation(s)": "Build up Nepal",
+        "Longitude": 85.2971212823508,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2016.012,
+        "Project Name": "Build Up Nepal CTH Project",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          85.297121,
+          27.693301
+        ],
+        "type": "Point"
+      },
+      "id": "4212ea255b7c9281ef9e402d105e884e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Food",
+        "Latitude": 6.34142470296299,
+        "Partner Organisation(s)": "Acohof",
+        "Longitude": 10.7703009779021,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2016.001,
+        "Project Name": "WADIS 2",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.7703,
+          6.341424
+        ],
+        "type": "Point"
+      },
+      "id": "4233185a8afe1b8fd0f6757cb494f09a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "The project was given a new project number 2019.013.",
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -18.5283941691963,
+        "Partner Organisation(s)": "FACE",
+        "Longitude": 32.1300423257477,
+        "Main Country of Operation": "Zimbabwe",
+        "Project Number": 2017.013,
+        "Project Name": "Solar Power Project - Zimbabwe, FACE",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          32.130042,
+          -18.528394
+        ],
+        "type": "Point"
+      },
+      "id": "4287c61cfd7809d0e47813af98711ddd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Late implementation phase, in line with plan.",
+        "Owning Local Group": "Chalmers",
+        "Competence group": "WASH",
+        "Latitude": -2.29716104400886,
+        "Partner Organisation(s)": "Mkula Hospital, Architects without borders, Involve aid",
+        "Longitude": 33.8824913738235,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2020.002,
+        "Project Name": "Healthy Hospital Mkula - Phase 3",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          33.882491,
+          -2.297161
+        ],
+        "type": "Point"
+      },
+      "id": "43802ddf7d979f3ed88bceb0712f01fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "Energy",
+        "Latitude": -1.57490313185956,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0594695214038,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.017,
+        "Project Name": "Solar Panel Project Linköping",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.059469,
+          -1.574903
+        ],
+        "type": "Point"
+      },
+      "id": "449e90d6a4062b0d8045a9fa0c6477b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): New project manager from BD, Hamse. Partnership assessment to be done. Clarify our role.",
+        "Owning Local Group": "Malmö",
+        "Competence group": "WASH",
+        "Latitude": -1.532860446,
+        "Partner Organisation(s)": "Karagwe District Council",
+        "Longitude": 31.15217319,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2021.001,
+        "Project Name": "Kayanga Health Center Water Project",
+        "Current Stage": "1. Idea Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.152173,
+          -1.53286
+        ],
+        "type": "Point"
+      },
+      "id": "456b627184d2b5c5d3409afad58b0480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": null,
+        "Latitude": -1.72551055540544,
+        "Partner Organisation(s)": null,
+        "Longitude": 30.9896525498648,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.015,
+        "Project Name": "Internships for Improvement",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          30.989652,
+          -1.72551
+        ],
+        "type": "Point"
+      },
+      "id": "479eef4cdacb859b175ea4319e645ff3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "Entrepreneurship",
+        "Latitude": -1.56156742814214,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0702909934258,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.011,
+        "Project Name": "Mavuno Entrepreneurship Initiative",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.07029,
+          -1.561567
+        ],
+        "type": "Point"
+      },
+      "id": "4937976e49c56beb3c3afaf98bbc2827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "Energy",
+        "Latitude": -1.57593271077581,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0672801135449,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.002,
+        "Project Name": "Grid Connection of the Power System at Chonyonyo",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.06728,
+          -1.575932
+        ],
+        "type": "Point"
+      },
+      "id": "4a1d3c30fa79a20e9f3edaedc4f401b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Göteborg",
+        "Competence group": "Construction",
+        "Latitude": 27.7109316084268,
+        "Partner Organisation(s)": "Build up Nepal",
+        "Longitude": 85.2942030391333,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2019.01,
+        "Project Name": "Mechanical engineer volunteer to improve Earth Brick machines for affordable, safe housing in Nepal",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          85.294203,
+          27.710931
+        ],
+        "type": "Point"
+      },
+      "id": "4a2badb6c771da3896ce069300b78c42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Postponed to 2022 due to Corona.",
+        "Owning Local Group": "National",
+        "Competence group": "Digitalisation & Energy",
+        "Latitude": -1.57139,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0575812463806,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2021.005,
+        "Project Name": "Preparation for Maker Tour and follow-up/improvement of computer lab and PV systems",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.057581,
+          -1.57139
+        ],
+        "type": "Point"
+      },
+      "id": "4b85c27208a240a24432ba82aa842d89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "Energy",
+        "Latitude": -1.58218172140477,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0560133149934,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.014,
+        "Project Name": "Mavuno Chonyonyo School Energy Storage Improvement",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.056013,
+          -1.582181
+        ],
+        "type": "Point"
+      },
+      "id": "4bbcbe529d12f5a91c993b34bc6a0d01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Digitalisation & Energy",
+        "Latitude": 8.28212028807495,
+        "Partner Organisation(s)": "Svenska Utbildningsfonden för Liberia",
+        "Longitude": -10.0863075121351,
+        "Main Country of Operation": "Liberia",
+        "Project Number": 2019.008,
+        "Project Name": "Schools in Liberia",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.086307,
+          8.28212
+        ],
+        "type": "Point"
+      },
+      "id": "4c14a9bd357b76fd27b9b8857a455200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (caroline and ulf): Ulf checks with salmas that he knows it is in planning stage.",
+        "Owning Local Group": "Uppsala",
+        "Competence group": "WASH",
+        "Latitude": 25.830285158616,
+        "Partner Organisation(s)": "BRIF",
+        "Longitude": 88.7873029049451,
+        "Main Country of Operation": "Bangladesh",
+        "Project Number": 2020.007,
+        "Project Name": "Pre-study of water situation in Goaldihi Village",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          88.787302,
+          25.830285
+        ],
+        "type": "Point"
+      },
+      "id": "4c906978fb9f8a980958f9202a63c735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "WASH",
+        "Latitude": -1.57790606894228,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0606282356225,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2015.004,
+        "Project Name": "Water Lab and Water Purification",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.060628,
+          -1.577906
+        ],
+        "type": "Point"
+      },
+      "id": "4f595814a5da034c095ef2d7f1b2b861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-08 (Caroline och Ulf): Received 50,000 SEK from KTH Opportunity Fund.\nGot rejected from KTH Sustainability Fund of 100,000 SEK\nTeam is completely ready with the technical work",
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Latitude": -2.994812967,
+        "Partner Organisation(s)": "Mwalua wildlife trust",
+        "Longitude": 38.46043113,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2020.012,
+        "Project Name": "Solar Energy Project for Ecosystem in Tsavo Kenya",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          38.460431,
+          -2.994812
+        ],
+        "type": "Point"
+      },
+      "id": "51ee494da5c9c0ac653f9d6478c870b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -1.55305910386319,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0693276058173,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2013.002,
+        "Project Name": "Electrical System Solutions for Education Centre",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.069327,
+          -1.553059
+        ],
+        "type": "Point"
+      },
+      "id": "5221304133dd2d20246be83d635f0a1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -1.17331008378119,
+        "Partner Organisation(s)": "Tideso, Tweyambe",
+        "Longitude": 31.7660193733944,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2013.006,
+        "Project Name": "Evaluation of Wind Data (and Wind Measurement Installation",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.766019,
+          -1.17331
+        ],
+        "type": "Point"
+      },
+      "id": "55767ca3d393bbe2427bcddc0e71fb96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): On-going well. Hve started to look for 1-3 new vounteers. In touch with Noemie",
+        "Owning Local Group": "Göteborg",
+        "Competence group": "Construction",
+        "Latitude": 27.6916293735357,
+        "Partner Organisation(s)": "Build up Nepal",
+        "Longitude": 85.3338568146189,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2020.005,
+        "Project Name": "Improvement of mixing method and testing of Earth bricks for Build up Nepal",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          85.333856,
+          27.691629
+        ],
+        "type": "Point"
+      },
+      "id": "55fc557e903cc50d9b1ee2789c6f18bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Göteborg",
+        "Competence group": "WASH",
+        "Latitude": -0.106558246740278,
+        "Partner Organisation(s)": "Zingira Nyanza Community Crafts",
+        "Longitude": 34.782787404335,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2017.012,
+        "Project Name": "Zingira Sanitary Pad Production",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          34.782787,
+          -0.106558
+        ],
+        "type": "Point"
+      },
+      "id": "5641985423ba10f92e95e3d6cb8bc69f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Other",
+        "Latitude": 8.51306458883208,
+        "Partner Organisation(s)": "EWB Sierra Leone",
+        "Longitude": -12.4920771997262,
+        "Main Country of Operation": "Sierra Leone",
+        "Project Number": 2016.013,
+        "Project Name": "Integrated sustainable waste management",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -12.492077,
+          8.513064
+        ],
+        "type": "Point"
+      },
+      "id": "5ab74b740ecea93ce2056df3814261d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": -3.02222429708943,
+        "Partner Organisation(s)": "IDC",
+        "Longitude": 32.5192000356247,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2014.002,
+        "Project Name": "Solelshop - Tanzania",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          32.5192,
+          -3.022224
+        ],
+        "type": "Point"
+      },
+      "id": "5ef33eb4feef6958ddcc3b0690abde04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Not continoued. No decision made but listed as an idea. Caroline and Remy (KTH) decided to terminate the project.",
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Latitude": -1.16416227883016,
+        "Partner Organisation(s)": null,
+        "Longitude": 38.1979580438332,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2018.006,
+        "Project Name": "Biogas Kenya",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          38.197958,
+          -1.164162
+        ],
+        "type": "Point"
+      },
+      "id": "5f27264372c8b52c73edf4ad4b97cc3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Final report due after summer 2019. Janne påminner nov 2019.",
+        "Owning Local Group": "Other",
+        "Competence group": "WASH",
+        "Latitude": -3.3484811447044,
+        "Partner Organisation(s)": "ECONEF",
+        "Longitude": -3.3484811447044,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.014,
+        "Project Name": "ECONEF Children's Centre Graywater & Toilet System",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.348481,
+          -3.348481
+        ],
+        "type": "Point"
+      },
+      "id": "609650ae2139aa89aa5544b207724a33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "Food & Energy",
+        "Latitude": 10.5609119199388,
+        "Partner Organisation(s)": "The Free Projects,",
+        "Longitude": -0.832627424185231,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2015.003,
+        "Project Name": "Pre-Study Biogas Ghana",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.832627,
+          10.560911
+        ],
+        "type": "Point"
+      },
+      "id": "6126e93cdd36240c6f50691cc320e82b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Göteborg",
+        "Competence group": "Construction",
+        "Latitude": 27.7311420991205,
+        "Partner Organisation(s)": "Build up Nepal",
+        "Longitude": 85.3326551850587,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2020.003,
+        "Project Name": "Improvement of Earth Brick machines for affordable, safe housing in Nepal",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          85.332655,
+          27.731142
+        ],
+        "type": "Point"
+      },
+      "id": "622d1c94dc0eb23d22a14a27d9a75fba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Terminated during the meeting 27/1-2020 due to unstable area. Made sure to follow up with all the involved partners. Everyone is okay with the proposed transferred to other engaged projects.",
+        "Owning Local Group": "Uppsala",
+        "Competence group": "WASH",
+        "Latitude": 6.34321919020183,
+        "Partner Organisation(s)": "ACOHOF",
+        "Longitude": 10.7691448911367,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2017.017,
+        "Project Name": "Waccess Tatum - ACOHOF",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          10.769144,
+          6.343219
+        ],
+        "type": "Point"
+      },
+      "id": "64ac90fa2c5647e628042141f5cc4047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Marianne Grauers has completed her stay at Mavuno. The project is therefore Concluded.",
+        "Owning Local Group": "National",
+        "Competence group": "Other",
+        "Latitude": -1.57528922401279,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0605853202811,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.001,
+        "Project Name": "Program Manager at Mavuno",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.060585,
+          -1.575289
+        ],
+        "type": "Point"
+      },
+      "id": "65c65e5715ee6e834f614722cffa93eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Karlstad",
+        "Competence group": "WASH",
+        "Latitude": 5.88897217926482,
+        "Partner Organisation(s)": "Kaderes",
+        "Longitude": -1.00485724565105,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2015.006,
+        "Project Name": "Water & Disability Project",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.004857,
+          5.888972
+        ],
+        "type": "Point"
+      },
+      "id": "6711c2c2e123dff95e666f27c1959841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Stockholm",
+        "Competence group": "WASH",
+        "Latitude": -32.2440618732002,
+        "Partner Organisation(s)": "Peace Parks Foundation",
+        "Longitude": 24.5332179819403,
+        "Main Country of Operation": "South Africa",
+        "Project Number": 2018.013,
+        "Project Name": "Peace Parks South Africa",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          24.533217,
+          -32.244061
+        ],
+        "type": "Point"
+      },
+      "id": "67ce3201c1d0c68f5e1eb9bf8b606488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -1.55303854622929,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0415246180218,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.02,
+        "Project Name": "New Toilets for Mavuno Boarding School",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.041524,
+          -1.553038
+        ],
+        "type": "Point"
+      },
+      "id": "6c74ec05e900d5ee07d3a3b60cf9f751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "WASH",
+        "Latitude": -1.5657655967259,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0720437164441,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.005,
+        "Project Name": "Small-Scale Water Purification System",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.072043,
+          -1.565765
+        ],
+        "type": "Point"
+      },
+      "id": "6ccf696c85119f6d09c4c420804c5582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-08 (Caroline och Ulf): Discussion with partners about the scope of our support. Having word with local architect. Will finalize them with help of partnership team\nPartnership assessment is pending. Had contacted and sent Victor all the information. Will follow up soon",
+        "Owning Local Group": "KTH",
+        "Competence group": "Construction",
+        "Latitude": -20.93540612,
+        "Partner Organisation(s)": "Educational Foundation Trust",
+        "Longitude": 29.00990148,
+        "Main Country of Operation": "Zimbabwe",
+        "Project Number": 2021.007,
+        "Project Name": "Community Development Centre for Gwanda",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          29.009901,
+          -20.935406
+        ],
+        "type": "Point"
+      },
+      "id": "701f271cccf63b94a4f8e5705f6b51f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Construction",
+        "Latitude": -1.57228628315873,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.070155441421,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2014.005,
+        "Project Name": "Support in Fire Precaution and Roofing at Mavuno",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.070155,
+          -1.572286
+        ],
+        "type": "Point"
+      },
+      "id": "711dafcdb116536cd4ccfbb1f355ce41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "WASH",
+        "Latitude": -1.58039421352681,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0617440344998,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2014.006,
+        "Project Name": "Water Tank for School Kitchen",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.061744,
+          -1.580394
+        ],
+        "type": "Point"
+      },
+      "id": "74597b64c411017f79cbf2806d763f5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): On hold due to Corona. Will potentially pickup again.",
+        "Owning Local Group": "National",
+        "Competence group": "Energy",
+        "Latitude": -6.26505923121726,
+        "Partner Organisation(s)": "Zanzibar Tourism & Local Development",
+        "Longitude": 39.5345913201535,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2020.004,
+        "Project Name": "Waste and recycling management plan for local communities in eastern Zanzibar",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          39.534591,
+          -6.265059
+        ],
+        "type": "Point"
+      },
+      "id": "7485881a1893a43ddb4b26ef9885a6f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -1.77117524733096,
+        "Partner Organisation(s)": "KARUDECA",
+        "Longitude": 30.9876428255257,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2017.018,
+        "Project Name": "Rain water harvesting tank construction",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          30.987642,
+          -1.771175
+        ],
+        "type": "Point"
+      },
+      "id": "754056f3e629400a92f8a875309169d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Energy",
+        "Latitude": 0.611832312325627,
+        "Partner Organisation(s)": "eSeeker Uganda.",
+        "Longitude": 33.4747407203379,
+        "Main Country of Operation": "Uganda",
+        "Project Number": 2014.007,
+        "Project Name": "Renewable Energy Education & Vocational Training, Phase 2",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          33.47474,
+          0.611832
+        ],
+        "type": "Point"
+      },
+      "id": "7595197d600e997230e366b8b288136a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Error. Two project numbers were created for the same project - this one was disregarded. See project number 2019.008 instead",
+        "Owning Local Group": null,
+        "Competence group": "Digitalisation",
+        "Latitude": 8.28759859230039,
+        "Partner Organisation(s)": "Svenska Utbildningsfonden för Liberia",
+        "Longitude": -10.0916719298144,
+        "Main Country of Operation": "Liberia",
+        "Project Number": 2018.025,
+        "Project Name": "Liberia School Projects",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.091671,
+          8.287598
+        ],
+        "type": "Point"
+      },
+      "id": "75ce6796745a6c4fd2dfb751191b1186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Malmö",
+        "Competence group": "WASH",
+        "Latitude": -1.56469311345991,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0545342571388,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2017.015,
+        "Project Name": "Water Supply Chonyonyo",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.054534,
+          -1.564693
+        ],
+        "type": "Point"
+      },
+      "id": "75ec03b4225aa032af8fa25792d5e45b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): To be concluded/terminated. Carolines dåliga samvete.",
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Energy",
+        "Latitude": -1.5795362329721,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.065220177156,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.008,
+        "Project Name": "Energy Storage Case, Sweco",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.06522,
+          -1.579536
+        ],
+        "type": "Point"
+      },
+      "id": "793661637a0aba22a7911d6299768de1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Other",
+        "Latitude": -2.30167232212706,
+        "Partner Organisation(s)": "Mkula Hospital, Architects without borders, Involve aid",
+        "Longitude": 33.8822171499047,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.031,
+        "Project Name": "Healthy Hospital Mkula, Phase 2",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          33.882217,
+          -2.301672
+        ],
+        "type": "Point"
+      },
+      "id": "7a7c08b4c852046afd13220da02fc8d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Rescope of charter, proceeding well. 2021-06-22 (National Board) Renewed decision for implementation stage",
+        "Owning Local Group": "Malmö",
+        "Competence group": "WASH",
+        "Latitude": -1.56540236703748,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0535396350226,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.026,
+        "Project Name": "Water Supply Chonyonyo, Phase 2",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.053539,
+          -1.565402
+        ],
+        "type": "Point"
+      },
+      "id": "7d79b4dad8d2a2769d0fec109e2791a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "The project has been turned to master thesis and looking for a fellowship and we thought no longer EWB will be involved.",
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Latitude": 12.1777912967407,
+        "Partner Organisation(s)": null,
+        "Longitude": 75.9675414633296,
+        "Main Country of Operation": "India",
+        "Project Number": 2019.022,
+        "Project Name": "Renewable Electrification of Coffee Plantations in Coorg, India\n",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          75.967541,
+          12.177791
+        ],
+        "type": "Point"
+      },
+      "id": "7f8a71e20e3aceef05dc585ce765fd3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): No project team.",
+        "Owning Local Group": "National",
+        "Competence group": "Entrepreneurship",
+        "Latitude": -9.17461406764884,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 32.867270164295,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2021.003,
+        "Project Name": "Tannery and leather goods, Tanzania",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          32.86727,
+          -9.174614
+        ],
+        "type": "Point"
+      },
+      "id": "81994220a88cc4e9203eefe65a65a50c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Wait to bale to travel. One person project.",
+        "Owning Local Group": "Malmö",
+        "Competence group": "Food",
+        "Latitude": -1.56778186378012,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0667222141062,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.02,
+        "Project Name": "Durable Beekeeping at Chonyonyo Tanzania",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.066722,
+          -1.567781
+        ],
+        "type": "Point"
+      },
+      "id": "82c78509ee18afb0a210bfb3db27ec98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "WASH",
+        "Latitude": -1.57395935073946,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0532038815543,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2017.014,
+        "Project Name": "New Rainwater Tank for Rukole Primary School",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.053203,
+          -1.573959
+        ],
+        "type": "Point"
+      },
+      "id": "83374ad968a8cb82d27ef8e737c64158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Construction",
+        "Latitude": 27.7013569107771,
+        "Partner Organisation(s)": "Build up Nepal",
+        "Longitude": 85.305532689272,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2017.01,
+        "Project Name": "Build Up Nepal Phase 2, Evaluation of Durability of Manufactured CSEB",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          85.305532,
+          27.701356
+        ],
+        "type": "Point"
+      },
+      "id": "85859f6b96c28518246b51c4d728995d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Other",
+        "Latitude": -0.146233904912455,
+        "Partner Organisation(s)": null,
+        "Longitude": 34.7854399065693,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2000.002,
+        "Project Name": "Kenya Sommaren 2009",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          34.785439,
+          -0.146233
+        ],
+        "type": "Point"
+      },
+      "id": "85ba3606d800a93f8a2b09e6c622ef89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Uppsala",
+        "Competence group": "Digitalisation",
+        "Latitude": 6.34414688366276,
+        "Partner Organisation(s)": "ACOHOF",
+        "Longitude": 10.7696598752339,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2016.016,
+        "Project Name": "Computers4Schools in Tatum",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.769659,
+          6.344146
+        ],
+        "type": "Point"
+      },
+      "id": "8867bdaa3711ebcf35d2d7a625df7ade"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Latitude": -2.2034812519447,
+        "Partner Organisation(s)": "Journey House Action",
+        "Longitude": 30.245983357464,
+        "Main Country of Operation": "Rwanda",
+        "Project Number": 2018.021,
+        "Project Name": "Electricity for Gashora Community Centre",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          30.245983,
+          -2.203481
+        ],
+        "type": "Point"
+      },
+      "id": "8a0c732aa09172c86c0648653b3ffcc0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Örebro",
+        "Competence group": "Construction",
+        "Latitude": 27.6810516053596,
+        "Partner Organisation(s)": "Build Up Nepal",
+        "Longitude": 85.3243357104448,
+        "Main Country of Operation": "Nepal",
+        "Project Number": 2022.002,
+        "Project Name": "More eco-friendly bricks Nepal",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          85.324335,
+          27.681051
+        ],
+        "type": "Point"
+      },
+      "id": "8e43be10014e7c4ab5913b704ee72291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "Digitalisation",
+        "Latitude": 5.26473482152751,
+        "Partner Organisation(s)": "CZR",
+        "Longitude": 10.2271602814411,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2017.003,
+        "Project Name": "Computers for Schools, Bandja",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.22716,
+          5.264734
+        ],
+        "type": "Point"
+      },
+      "id": "8ecc607b87013b868e73a1c4866d8687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Food",
+        "Latitude": -1.57117512582199,
+        "Partner Organisation(s)": "Sangwa Job Training Center",
+        "Longitude": 30.046500494906,
+        "Main Country of Operation": "Rwanda",
+        "Project Number": 2016.006,
+        "Project Name": "Sangwa Pig Farm and Job Training",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          30.0465,
+          -1.571175
+        ],
+        "type": "Point"
+      },
+      "id": "8f732c7be4fe0cf3089057f6f80217da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Digitalisation",
+        "Latitude": -0.144731867712728,
+        "Partner Organisation(s)": "OWIDOP",
+        "Longitude": 34.7847958606144,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2010.001,
+        "Project Name": "Computers for Schools",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          34.784795,
+          -0.144731
+        ],
+        "type": "Point"
+      },
+      "id": "911cc5a1eca7562a0c73f56a075cfcaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "WASH",
+        "Latitude": -1.57786316987159,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0612290504026,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.011,
+        "Project Name": "New Rural Water Tank Mavuno",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          31.061229,
+          -1.577863
+        ],
+        "type": "Point"
+      },
+      "id": "9238c3f95816af2adcec5b029d5cc79b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "WASH",
+        "Latitude": -1.57945043489714,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0625594259871,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2013.007,
+        "Project Name": "Development of Water Tanks",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.062559,
+          -1.57945
+        ],
+        "type": "Point"
+      },
+      "id": "93718aa698e9d0fc8b0d6821ade4c352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "WASH",
+        "Latitude": -1.54095504967155,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0711495831952,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.003,
+        "Project Name": "Water purification system at Rukole Primary School",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.071149,
+          -1.540955
+        ],
+        "type": "Point"
+      },
+      "id": "94f323f8cfe498d98e10d957cd7186d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Energy",
+        "Latitude": 8.28291488995575,
+        "Partner Organisation(s)": "Svenska Utbildningsfonden för Liberia",
+        "Longitude": -10.087399759025,
+        "Main Country of Operation": "Liberia",
+        "Project Number": 2019.016,
+        "Project Name": "Solar Energy Project Liberia",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.087399,
+          8.282914
+        ],
+        "type": "Point"
+      },
+      "id": "96bb11d28ccb3cd23c6602094d4b456f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "Other",
+        "Latitude": -8.35454005387862,
+        "Partner Organisation(s)": null,
+        "Longitude": 115.052138649342,
+        "Main Country of Operation": "Sweden, Indonesia",
+        "Project Number": 2017.005,
+        "Project Name": "Solar-Powered Plastic Waste Recycling",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          115.052138,
+          -8.35454
+        ],
+        "type": "Point"
+      },
+      "id": "98332b11db6d34f3b8a14b4733ce9d51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-08 (Caroline och Ulf): Had meeting with local partner and some children from Gashora. Will hire new team member to complete the work. Have good sync with Symetri",
+        "Owning Local Group": "KTH",
+        "Competence group": "Digitalisation",
+        "Latitude": -2.203802957,
+        "Partner Organisation(s)": "Journey House Action",
+        "Longitude": 30.24327985,
+        "Main Country of Operation": "Rwanda",
+        "Project Number": 2021.008,
+        "Project Name": "ICT Centre - Gashora Community Centre",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          30.243279,
+          -2.203802
+        ],
+        "type": "Point"
+      },
+      "id": "994f8dc057968699ea5e746a8022c00b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Exjobbare working on the project. Will do water samples",
+        "Owning Local Group": "Stockholm",
+        "Competence group": "WASH",
+        "Latitude": -18.4827068884114,
+        "Partner Organisation(s)": "Fortune Development Center (FDC)",
+        "Longitude": 32.8499673079471,
+        "Main Country of Operation": "Zimbabwe",
+        "Project Number": 2019.023,
+        "Project Name": "Water Harmonization Honde Valley, Zimbabwe",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          32.849967,
+          -18.482706
+        ],
+        "type": "Point"
+      },
+      "id": "9cecae136bc33dcb051f14fb97d877a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Luleå",
+        "Competence group": "WASH",
+        "Latitude": -8.38216159767648,
+        "Partner Organisation(s)": "CCY",
+        "Longitude": 35.0566862660957,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2016.004,
+        "Project Name": "CCY School Water Project",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          35.056686,
+          -8.382161
+        ],
+        "type": "Point"
+      },
+      "id": "9cfe36dc01b6e0b15547860d0c282368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "The project is terminated due to lack of financing, and due to a new partner in the meeting of the 17 of june. The money in the project will be transferred to another international project at Lund. ",
+        "Owning Local Group": "Lund",
+        "Competence group": "Energy",
+        "Latitude": -6.27679252301055,
+        "Partner Organisation(s)": null,
+        "Longitude": 106.816377071212,
+        "Main Country of Operation": "Indonesia",
+        "Project Number": 2018.022,
+        "Project Name": "Indonesia Hospital Solar Panel Project",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          106.816377,
+          -6.276792
+        ],
+        "type": "Point"
+      },
+      "id": "9d23b70d883919a4cfbc3bf841ad0f51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Construction",
+        "Latitude": -1.264455356831,
+        "Partner Organisation(s)": "Kaderes",
+        "Longitude": 30.923043656084,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2015.005,
+        "Project Name": "Farmers Development Centre Karagwe",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          30.923043,
+          -1.264455
+        ],
+        "type": "Point"
+      },
+      "id": "a092445ccc0dc55afb7abb59a273b116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Helsingborg",
+        "Competence group": "Construction",
+        "Latitude": -6.76622116565938,
+        "Partner Organisation(s)": null,
+        "Longitude": 39.2155211850824,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.012,
+        "Project Name": "Climate Responsive Building Design in Warm and Humid Climates",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          39.215521,
+          -6.766221
+        ],
+        "type": "Point"
+      },
+      "id": "a6b1dad4c0499c85b0bc8af227827fd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -8.92498485753337,
+        "Partner Organisation(s)": "Lugala Lutheran Hospital / Solidarmed",
+        "Longitude": 36.1377744446245,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2013.005,
+        "Project Name": "Water System Lugala",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          36.137774,
+          -8.924984
+        ],
+        "type": "Point"
+      },
+      "id": "a92b795ecc878e353edb8f41786875c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Lund",
+        "Competence group": "WASH",
+        "Latitude": -1.57434544306752,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0576670770635,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2020.001,
+        "Project Name": "Zero Dropouts Chonyonyo, Tanzania",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          31.057667,
+          -1.574345
+        ],
+        "type": "Point"
+      },
+      "id": "a988c79147c2adc96d1be3812131a204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Partner Organisation(s)": null,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2017.002,
+        "Project Name": "Small Scale Wind Turbine",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "aa389719f306858bab7634d5ec33d6b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Team is established. Wish to enter implementation stage in August.",
+        "Owning Local Group": "Göteborg",
+        "Competence group": "Food",
+        "Latitude": -9.17639344894903,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 32.8650600242111,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2021.002,
+        "Project Name": "Solar drying in Karagwe",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          32.86506,
+          -9.176393
+        ],
+        "type": "Point"
+      },
+      "id": "ad5afb605c3dd3810cd94d0c90d35366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -1.58052291057945,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0589545373065,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2012.001,
+        "Project Name": "Mavuno Water Tank Project 2008",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.058954,
+          -1.580522
+        ],
+        "type": "Point"
+      },
+      "id": "ada8016e554a8fc00e949ff875eaba59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Uppsala",
+        "Competence group": "Energy",
+        "Latitude": 6.34273934810131,
+        "Partner Organisation(s)": "ACOHOF",
+        "Longitude": 10.769423840856,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2016.008,
+        "Project Name": "Solar Energy ACOHOF, Tatum",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.769423,
+          6.342739
+        ],
+        "type": "Point"
+      },
+      "id": "af3ff68ec42da9896bf0534275e6b045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Other",
+        "Latitude": -2.33479617730723,
+        "Partner Organisation(s)": "Mkula Hospital, Architects without borders, Involve aid",
+        "Longitude": 33.8758512482602,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2017.016,
+        "Project Name": "Healthy Hospital Mkula, Phase 1",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          33.875851,
+          -2.334796
+        ],
+        "type": "Point"
+      },
+      "id": "b2bc183d4bd04914863ff18fe9dc47c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Uppsala",
+        "Competence group": "Digitalisation",
+        "Latitude": 59.3195125281661,
+        "Partner Organisation(s)": "\"In house\"",
+        "Longitude": 18.0718358200806,
+        "Main Country of Operation": "Sweden",
+        "Project Number": 2019.002,
+        "Project Name": "Rural Communication Systems Phase 1",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          18.071835,
+          59.319512
+        ],
+        "type": "Point"
+      },
+      "id": "b44aacbfca13b65db00dca74a145b788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Göteborg",
+        "Competence group": "WASH",
+        "Latitude": -3.5985512591182,
+        "Partner Organisation(s)": "Kolandoto hospital, Involvaid, Architects without borders",
+        "Longitude": 33.5335326850551,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2014.009,
+        "Project Name": "Kolandoto Hospital",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          33.533532,
+          -3.598551
+        ],
+        "type": "Point"
+      },
+      "id": "b99258791c8c4e98efa21d9cfb973baf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Covid project. Status unclear. Project coordinator seem to not know either.",
+        "Owning Local Group": "Stockholm",
+        "Competence group": "Food",
+        "Latitude": -18.5245368280855,
+        "Partner Organisation(s)": "FACE",
+        "Longitude": 32.13033182726,
+        "Main Country of Operation": "Zimbabwe",
+        "Project Number": 2020.006,
+        "Project Name": "Face Nutritional Garden",
+        "Current Stage": "1. Idea Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          32.130331,
+          -18.524536
+        ],
+        "type": "Point"
+      },
+      "id": "be5977e72cb74820b016b39eafc57040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Uppsala",
+        "Competence group": "Food & Energy",
+        "Latitude": -1.26447242923372,
+        "Partner Organisation(s)": "Asulma center",
+        "Longitude": 36.8075244001825,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2019.018,
+        "Project Name": "CO2 Modelling in East Africa",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          36.807524,
+          -1.264472
+        ],
+        "type": "Point"
+      },
+      "id": "c0f69613323181d1900df702e2cf0b2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Göteborg",
+        "Competence group": "WASH",
+        "Latitude": -2.29197678188355,
+        "Partner Organisation(s)": "Fishers Union Organisation",
+        "Longitude": 32.3098239506427,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.01,
+        "Project Name": "Bulyaheke Water Project",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          32.309823,
+          -2.291976
+        ],
+        "type": "Point"
+      },
+      "id": "c47804098ab327014a427b1fb8666705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Discussions about how to engage. In collaboration with ASF,",
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -3.33805172955476,
+        "Partner Organisation(s)": "ECONEF",
+        "Longitude": 36.9979429165815,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2020.008,
+        "Project Name": "ECONEF",
+        "Current Stage": "1. Idea Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          36.997942,
+          -3.338051
+        ],
+        "type": "Point"
+      },
+      "id": "c6969caa9961f72f0095305b17367e8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): To be concluded?",
+        "Owning Local Group": "Lund",
+        "Competence group": "Energy",
+        "Latitude": -1.56810781848745,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0542660644039,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.004,
+        "Project Name": "Increased sustainability of the PV-power system at Mavuno",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.054266,
+          -1.568107
+        ],
+        "type": "Point"
+      },
+      "id": "c7d1cb2466ec227968cec27b588a6ba6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Food",
+        "Latitude": 36.8667456094187,
+        "Partner Organisation(s)": null,
+        "Longitude": 10.2381305258667,
+        "Main Country of Operation": "Tunisia",
+        "Project Number": 2013.003,
+        "Project Name": "Follow-Up of Solar Ovens",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.23813,
+          36.866745
+        ],
+        "type": "Point"
+      },
+      "id": "ccbafb9edb3d53d58898f370371ff84c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Digitalisation",
+        "Latitude": -1.57782027080003,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0656922459118,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2015.001,
+        "Project Name": "Mavuno School IT",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.065692,
+          -1.57782
+        ],
+        "type": "Point"
+      },
+      "id": "cd33e9fb8c5f8e2a160c3e443ccd1ab8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "Decision to Implementation 2020-03-23, a second decision 2020-05-18",
+        "Owning Local Group": "Linköping",
+        "Competence group": "WASH",
+        "Latitude": -1.57041908585059,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0540592609744,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.024,
+        "Project Name": "Water Purification Study in Karagwe, Tanzania",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          31.054059,
+          -1.570419
+        ],
+        "type": "Point"
+      },
+      "id": "d174439c2817e2e05d21a370ccae572a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-08 (Caroline och Ulf): Identified tribes/area for pre-study. Unclear status with regards to MOU and whether the dialogue is on going.",
+        "Owning Local Group": "KTH",
+        "Competence group": "WASH",
+        "Latitude": 5.83259684807259,
+        "Partner Organisation(s)": "UNDP",
+        "Longitude": -55.1587045609926,
+        "Main Country of Operation": "Suriname",
+        "Project Number": 2021.004,
+        "Project Name": "Clean Water Access for Indigenous and Tribal Communities in Suriname",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.158704,
+          5.832596
+        ],
+        "type": "Point"
+      },
+      "id": "d3dcb5805dbb341669e75bdd496d175e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "Other",
+        "Latitude": 10.4671343877808,
+        "Partner Organisation(s)": "Wulugu",
+        "Longitude": -0.792678508844433,
+        "Main Country of Operation": "Ghana",
+        "Project Number": 2017.004,
+        "Project Name": "Human Waste Sanitary Solution",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.792678,
+          10.467134
+        ],
+        "type": "Point"
+      },
+      "id": "d516bcf2729859d56014799a01c1c3e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Chalmers",
+        "Competence group": "Energy",
+        "Latitude": -12.3400592874643,
+        "Partner Organisation(s)": null,
+        "Longitude": 39.8419877334014,
+        "Main Country of Operation": "Mozambique",
+        "Project Number": 2000.009,
+        "Project Name": "Niclas & Carl MFS 2011",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          39.841987,
+          -12.340059
+        ],
+        "type": "Point"
+      },
+      "id": "d5ea62920f3d1482e78d8a2a74a1b2cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Lund",
+        "Competence group": "Energy",
+        "Latitude": -8.92397795737538,
+        "Partner Organisation(s)": "Lugala Lutheran Hospital / Solidarmed",
+        "Longitude": 36.1374525795637,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2014.001,
+        "Project Name": "Electrical System Lugala",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          36.137452,
+          -8.923977
+        ],
+        "type": "Point"
+      },
+      "id": "d74847d14ee9053c03a0929b19d83176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Ulf follow up with Gustav.",
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -32.2650983272933,
+        "Partner Organisation(s)": "Peace Parks Foundation",
+        "Longitude": 24.5435132608638,
+        "Main Country of Operation": "South Africa",
+        "Project Number": 2020.01,
+        "Project Name": "SACT WASH assessment",
+        "Current Stage": "2. Planning Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          24.543513,
+          -32.265098
+        ],
+        "type": "Point"
+      },
+      "id": "d9bcd85811cd2dd34846ddd7f3798816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "WASH",
+        "Latitude": 3.46963214160901,
+        "Partner Organisation(s)": "Kulikulinga Health Center",
+        "Longitude": 31.248476069688,
+        "Main Country of Operation": "Uganda",
+        "Project Number": 2017.006,
+        "Project Name": "Rainwater Tank Uganda",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.248476,
+          3.469632
+        ],
+        "type": "Point"
+      },
+      "id": "e0ebdebc21f61885dcd69bf83cd232de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline and Ulf): Compicated situation, however under control. Charter to be updated. Due to Covid-19 to travels was later postponed.",
+        "Owning Local Group": "National",
+        "Competence group": "Construction",
+        "Latitude": -1.55727757798388,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0492990401406,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.027,
+        "Project Name": "Extension Chonyonyo Boarding School grade 5-6",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.049299,
+          -1.557277
+        ],
+        "type": "Point"
+      },
+      "id": "e3d9dcd0f378915cec093d381c8faf24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Lund",
+        "Competence group": "WASH",
+        "Latitude": -2.113674469307,
+        "Partner Organisation(s)": "MYM",
+        "Longitude": 33.0617295101308,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2017.007,
+        "Project Name": "MYM Tanzania Child Care Centre",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          33.061729,
+          -2.113674
+        ],
+        "type": "Point"
+      },
+      "id": "e5d9ffc8f009e0a46376381edfe15e69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Linköping",
+        "Competence group": "Energy",
+        "Latitude": -1.57168569446925,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.068181335715,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2014.008,
+        "Project Name": "Solar Panel & LED Project",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.068181,
+          -1.571685
+        ],
+        "type": "Point"
+      },
+      "id": "e6e61009fd2eec83935940ab05ea1454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf): Wait to travel. Prepare to buy and transport material. Plan for more external communication after summer. Weak contact to Digitalisation competence group",
+        "Owning Local Group": "Göteborg",
+        "Competence group": "Digitalisation",
+        "Latitude": -1.2624250080883,
+        "Partner Organisation(s)": "Asulma center",
+        "Longitude": 36.8052575033077,
+        "Main Country of Operation": "Kenya",
+        "Project Number": 2019.015,
+        "Project Name": "Computer for Schools at Asulma Center, Nairobi",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          36.805257,
+          -1.262425
+        ],
+        "type": "Point"
+      },
+      "id": "e7a687c07e7955b439deacc7610c7bbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "Uppsala",
+        "Competence group": "WASH",
+        "Latitude": -1.55321517275151,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0791598918628,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.024,
+        "Project Name": "Sanitation Concept for Karagwe Schools",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.079159,
+          -1.553215
+        ],
+        "type": "Point"
+      },
+      "id": "e7f6e87c22cf8d0616cd71a21c19eaab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "Other",
+        "Latitude": -1.56859694991054,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0671084521791,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.009,
+        "Project Name": "Payment of School Fees",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.067108,
+          -1.568596
+        ],
+        "type": "Point"
+      },
+      "id": "e925a8daf0432a7243272b38921664d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-18 (Caroline och Ulf) Decision to construct further wa´tertanks from 2021-06-14 (IPC). Larger program charter to be developed",
+        "Owning Local Group": "National",
+        "Competence group": "WASH",
+        "Latitude": -1.57034787497797,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0395810123304,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.017,
+        "Project Name": "Clean Water for Schools in Karagwe",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          31.039581,
+          -1.570347
+        ],
+        "type": "Point"
+      },
+      "id": "e9876f329c5c6405a2de128f84b4b959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "National",
+        "Competence group": "Energy",
+        "Latitude": -1.55763083100424,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0890546117458,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.016,
+        "Project Name": "Fault and Load Analysis of PV System at Mavuno School",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.089054,
+          -1.55763
+        ],
+        "type": "Point"
+      },
+      "id": "eb3dca5591be164020045b00d468ba5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Latitude": 0.460983041659786,
+        "Partner Organisation(s)": "SOGH: Sanni Kujala\nMaina Clinic",
+        "Longitude": 33.4773051721809,
+        "Main Country of Operation": "Uganda",
+        "Project Number": 2017.008,
+        "Project Name": "Solar Project KTH",
+        "Current Stage": "Terminated"
+      },
+      "geometry": {
+        "coordinates": [
+          33.477305,
+          0.460983
+        ],
+        "type": "Point"
+      },
+      "id": "ebd125ac8d7a890e4e3d62617df7ae9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "The finances for this project had to verified once more, this was done during the board meeting on 2020-12-07. The project was there reconfirmed as approved.",
+        "Owning Local Group": "Uppsala",
+        "Competence group": "Digitalisation",
+        "Latitude": -1.56877451588564,
+        "Partner Organisation(s)": "Mavuno",
+        "Longitude": 31.0503782750001,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2019.012,
+        "Project Name": "Computers for Schools at Mavuno Secondary School",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          31.050378,
+          -1.568774
+        ],
+        "type": "Point"
+      },
+      "id": "ed4b85ce2c2f1a9489aee63bc437aa45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": "2021-06-08 (Caroline och Ulf): Ulf will check with Avinash.",
+        "Owning Local Group": "KTH",
+        "Competence group": "WASH",
+        "Latitude": -23.72734338,
+        "Partner Organisation(s)": "Project Vita",
+        "Longitude": 35.39954192,
+        "Main Country of Operation": "Mozambique",
+        "Project Number": 2021.006,
+        "Project Name": "Pre-study of water, sanitation and hygiene services at a healthcare facility in Linga Linga, Mocambique",
+        "Current Stage": "3. Implementation Stage"
+      },
+      "geometry": {
+        "coordinates": [
+          35.399541,
+          -23.727343
+        ],
+        "type": "Point"
+      },
+      "id": "f9257e308784e2eec2c907db25e5db38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": "KTH",
+        "Competence group": "Energy",
+        "Latitude": -6.77686956217145,
+        "Partner Organisation(s)": null,
+        "Longitude": 39.2114924789128,
+        "Main Country of Operation": "Tanzania",
+        "Project Number": 2018.007,
+        "Project Name": "Rural Electrification Singida",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          39.211492,
+          -6.776869
+        ],
+        "type": "Point"
+      },
+      "id": "fdd766d5a8465220ad958ec1906ff2de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Notes": null,
+        "Owning Local Group": null,
+        "Competence group": "Food & Energy",
+        "Latitude": 6.34592762390231,
+        "Partner Organisation(s)": "OWIDOP",
+        "Longitude": 10.7702821476847,
+        "Main Country of Operation": "Cameroon",
+        "Project Number": 2014.003,
+        "Project Name": "Solar Purification of Water",
+        "Current Stage": "4. Concluded"
+      },
+      "geometry": {
+        "coordinates": [
+          10.770282,
+          6.345927
+        ],
+        "type": "Point"
+      },
+      "id": "fe048ffd5a692aade63d60602e972243"
+    }
+  ],
+  "type": "FeatureCollection"
+}
